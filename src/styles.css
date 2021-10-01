@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+h1 {
+  font-family: serif;
+  font-size: 3rem;
+  color: rgb(70, 64, 150);
+  background-color: rgb(194, 18, 150);
+}
+
+input {
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+}
+div {
+  padding: 2rem;
+  font-size: 2rem;
+}
+span {
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin: 2rem 2rem;
+}
